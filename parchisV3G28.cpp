@@ -1,7 +1,6 @@
 /*
 PARCHIS V3
 Integrantes:
-Carlos Vesteiro Loring (Ingenieria de Software)
 Miguel Antonio Amato Hermo (Ingenieria de Software)
 Grupo D
 */
